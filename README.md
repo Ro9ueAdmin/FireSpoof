@@ -28,4 +28,8 @@ I'm NOT responsible for improper conduct using this code, and neither is FireRTC
 
 Cheers!
 
-
+# Buy me a coffee? 
+## Bitcoin address: 
+17mMBJrV2VTeXFXRcJX2HVpzzZXXps6eRe
+## Litecoin address: 
+LiMA3bPm631vMLpGYPhZfxsnMcazXefHpD
